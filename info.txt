@@ -1,0 +1,32 @@
+JS  (Both Client and Server Side Scripting language)
+
+frontEnd
+backEnd
+Database
+
+
+Nodejs  	 ===> Runtime Environment
+Expressjs   ===> Nodejs Framework
+MongoDB ===> No SQL Database
+
+
+Successful response - 200-299 codes
+Client error response - 400-499 codes
+Server error response - 500-599 codes
+
+npm i --g nodemon
+In package.json, add this in scripts object " "start": "nodemon app.js"
+
+extension to test api in vs code  ""thunder client""
+
+realtime database m ap object add kraty
+firestore database m ap collections k through add kraty
+nosql database m data object ki form m data save hota
+sql database m data table ki form m data save hota
+
+steps to create MongoDB account:
+1. Fill the signup form
+2. Primary Goal - Learn MongoDB
+3. Type of data - customer data
+4. Model - microservices
+5. Connect cluster
